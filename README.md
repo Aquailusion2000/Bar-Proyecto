@@ -1,2 +1,2 @@
 # Bar-Proyecto
-Como crear un BackEnd sobre Bar con Django Rest-Frame work en Python 
+BackEnd - Bar con Django REST FRAMEWORK en Python 
